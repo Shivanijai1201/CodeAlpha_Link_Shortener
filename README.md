@@ -1,2 +1,2 @@
-# CodeAlpha_Link_Shortener
+Link_Shortener
 My Link Shortener website from Complete Web Development
